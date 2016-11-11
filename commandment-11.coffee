@@ -3,11 +3,13 @@
 # Chris Scharff (http://tenlions.com)
 # Adapted from Wojciech Rutkowski (http://wojciech-rutkowski.com/) and
 # Raphael Hanneken (behoernchen.github.io) code used from Time Words widget
-# both of whom did *all* the heavy lifting
+# both of whom did *all* the heavy lifting.
+#  
+# Idea shamelessly borrowed from the folks at http://www.itstactical.com
+# They make some fine EDC gear if you happen to be in the market. 
 #
-#
-# Todo - clean up the hackjob of highlighting values by using a random sort function and pulling the first n values from array.
-# Todo - pupulate the span values from a random genrator
+# Todo - clean up the hackjob of highlighting values by using a random selection function.
+# Todo - pupulate the text values from a OTP genrator
 
 
 style: """
