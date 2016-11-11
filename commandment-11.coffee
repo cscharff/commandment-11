@@ -32,7 +32,7 @@ style: """
     color: rgba(245, 245, 245, 1)
     animation: blink 1s cubic-bezier(0.950, 0.050, 0.795, 0.035) infinite alternate
 """
-
+ 
 # Get the current hour as word.
 command: ""
 
